@@ -54,6 +54,7 @@ Figure -02 HALF Subtractor
 
 Developed by: MADHUMITHA R R
 RegisterNumber:212224240083*/
+```
    module half_adder_and_subtractor(a,b,sum,carry,borr,diff);
    input a,b;
    output sum,carry,borr,diff;
@@ -64,7 +65,7 @@ RegisterNumber:212224240083*/
    not(abar,a);
    and (borr,abar,b);
    endmodule
-
+```
 **RTL Schematic**
 <img width="1920" height="1140" alt="Screenshot 2025-10-03 113633" src="https://github.com/user-attachments/assets/62c10df8-5bf4-4d13-85c2-c305c74c83f9" />
 
