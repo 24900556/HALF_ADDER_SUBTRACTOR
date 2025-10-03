@@ -66,7 +66,8 @@ RegisterNumber:212224240083*/
    endmodule
 
 **RTL Schematic**
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/d58c5ce2-7764-4606-be02-3b662ef12afc" />
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/142611bd-a742-42af-bba6-7fe62281a221" />
+
 
 
 **Output/TIMING Waveform**
