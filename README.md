@@ -66,12 +66,13 @@ RegisterNumber:212224240083*/
    endmodule
 
 **RTL Schematic**
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/142611bd-a742-42af-bba6-7fe62281a221" />
+<img width="1920" height="1140" alt="Screenshot 2025-10-03 113633" src="https://github.com/user-attachments/assets/62c10df8-5bf4-4d13-85c2-c305c74c83f9" />
 
 
 
 **Output/TIMING Waveform**
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/fde5e2d7-aa7b-40b3-8d0d-a283220b9300" />
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/b09f9b33-f07a-49cc-a833-aa8347ec5b06" />
+
 
 **Result:**
 Thus,the program is successfully verified.
